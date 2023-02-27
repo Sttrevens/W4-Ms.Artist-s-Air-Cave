@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FirstLevel.unity
+    guid: a4e33b0aef5e14daaaca7fdc4933f55f
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: c2bf1c5c6369747268aa910c2137b914
+  - enabled: 1
+    path: Assets/Scenes/WinningScene.unity
+    guid: 19b14e95de58b4f1bb6afbdf67d0b473
+  m_configObjects: {}
